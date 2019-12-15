@@ -1,0 +1,2 @@
+Test file for stash.
+i had modified a code.
